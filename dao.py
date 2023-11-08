@@ -1,6 +1,10 @@
 #!/usr/bin/python
 # -*- encoding:utf-8 -*-
 
+# @Time    : 2023-11-08
+# @Author  : xpao24
+# @URL  : https://wwww.javaguidepro.cn
+
 import MySQLdb
 from task_model import Task
 import sys
